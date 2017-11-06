@@ -1,13 +1,7 @@
-# Vue 2 simple website (V1.0)
-
-Vue 2 most simple website with routes, transitions, http requests and vuex.
+# Clean website boilerplate (V1.0)
 
 ### Technologies
 
-* [Vue 2.1](https://vuejs.org/)
-* [Vuex 2.0](http://vuex.vuejs.org/en/)
-* [VueRouter 2.1.1](https://router.vuejs.org/en/)
-* [VueResource 1.0.3](https://github.com/pagekit/vue-resource)
 * SCSS
 * [GSAP - TweenMax](https://greensock.com/gsap)
 * [Webpack](https://webpack.js.org/)
