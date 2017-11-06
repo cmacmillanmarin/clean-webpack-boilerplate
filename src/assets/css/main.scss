@@ -1,0 +1,9 @@
+//
+// main.scss
+
+@import "variables";
+@import "normalize";
+
+body, html {
+    font-family: $font-family;
+}
